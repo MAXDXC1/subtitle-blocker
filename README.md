@@ -26,9 +26,7 @@
 - 📌 **始终置顶** — 盖上之后切到其他窗口也不会消失
 - 🎨 **可调透明度** — 半透明到完全不透明随意调
 
-## 📥 下载
-
-> [**⬇️ 下载 EXE（Windows 免安装）**](../../releases)
+## 📥 下载EXE文件
 
 双击运行，什么都没装也能用。
 
@@ -73,15 +71,6 @@ pyinstaller --onefile --noconsole --name "字幕遮挡条" subtitle_blocker_gui.
 
 生成的 EXE 在 `dist/` 目录下。
 
-## 📁 项目结构
-
-```
-subtitle-blocker/
-├── subtitle_blocker_gui.py   # 全部源码（单文件）
-├── README.md
-├── LICENSE
-└── .gitignore
-```
 
 ## 📄 许可
 
